@@ -1,0 +1,122 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+p{
+  font-size: 3vmin;
+}
+
+h1{
+  font-size: 7vmin;
+}
+
+h3{
+  font-size: 4.5vmin;
+  color: #1a73e8;
+  margin-bottom: 10vmin;
+}
+
+.container{
+  padding: 5vmin;
+}
+
+.header{
+  background-color: #f4f4f8;
+}
+
+.navigation{
+  font-size: 3vmin;
+}
+
+.picture {
+  width: 40vmin;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: auto;
+  padding-right: auto;
+  margin-bottom: 2vmin;
+  border: solid 1vmin #1a73e8;
+  border-radius: 10%;
+  overflow: hidden;
+
+}
+
+
+
+.contact p{
+  margin-bottom: .5vh;
+}
+
+.social img{
+  width: 6vmin;
+  margin: 3vmin 1.5vmin;
+}
+
+table{
+  margin: 4vmin;
+  font-size: 2.4vmin;
+}
+
+.t{
+  border: solid .5vmin #dfdfdf;
+  padding: 2vmin;
+}
+
+.sec{
+  border-bottom: solid .3vmin #dfdfdf;
+}
+
+.card{
+  margin: 4vmin;
+}
+
+.card-body{
+  padding: 4vmin;
+}
+.card-title{
+  font-size: 3vmin;
+}
+
+.card-text{
+  margin: 2vmin;
+}
+
+.badge{
+  margin-right: .5vmin;
+  font-size: 2vmin;
+}
+
+.col-4{
+  padding-top: 5vmin;
+  padding-bottom: 5vmin;
+  border-right: solid .2vmin #dfdfdf;
+}
+.col-4 .card-title{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.col-8{
+  padding-top: 5vmin;
+  padding-bottom: 5vmin;
+}
+
+.r{
+  border-bottom: solid .2vmin #dfdfdf;
+}
+
+#skills .card-body{
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+#skills .badge{
+  font-size: 2vmin;
+  margin: 1vmin;
+  padding: 1vmin;
+}
